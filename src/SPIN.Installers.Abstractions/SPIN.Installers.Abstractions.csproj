@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>SPIN.Services</PackageId>
+    <PackageId>SPIN.Installers.Abstractions</PackageId>
     <Version>0.1.0</Version>
     <Authors>SPIN - Space Innovation Avionics</Authors>
     <Company>SPIN - Space Innovation</Company>
-    <RepositoryUrl>https://github.com/SPIN-Space-Innovation/SPIN.Services</RepositoryUrl>
+    <RepositoryUrl>https://github.com/SPIN-Space-Innovation/SPIN.Installers.Abstractions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
