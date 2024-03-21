@@ -1,4 +1,4 @@
-# Dotnet-Template
+# SPIN Installers Abstractions
 
 ## .NET Versions
 Libraries in this repository are .NET 8 targetted.
@@ -19,8 +19,8 @@ dotnet nuget add source https://nuget.pkg.github.com/SPIN-Space-Innovation/index
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/SPIN-Space-Innovation/Dotnet-Template.git
-cd Dotnet-Template
+git clone https://github.com/SPIN-Space-Innovation/SPIN.Installers.Abstractions.git
+cd SPIN.Installers.Abstractions
 ```
 
 ### Restore the Project dependencies
@@ -36,4 +36,4 @@ dotnet build --no-restore
 ```
 
 ## License
-Dotnet-Template is licensed under the [MIT license](LICENSE).
+SPIN.Installers.Abstractions is licensed under the [MIT license](LICENSE).
